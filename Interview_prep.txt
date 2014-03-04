@@ -1,0 +1,126 @@
+- Stack
+- Queue
+- Binary Tree
+- Complexity
+- Link List, Doubly Link List, Circular Link List
+- How to count nodes in link list?
+-
+
+
+
+- class vs object/instance
+- public, private, protected
+- constructor vs desructor
+- default constructor vs parameterized constructor
+- static variable, static function
+- constructors execution cycle vs destructor execution cycle
+- new operator
+- Call by value vs Call by reference
+- pointers, pointer to pointer
+- Reference Operator (&) vs Dereference operator (*)
+- const keyword
+- virtual functions, pure virtual functions
+
+
+
+
+- inheritance, Polymorphism, Abstraction, Encapuslation, Information Hiding
+- composition vs aggregation
+- static memory vs dynamic memory
+- function overloading vs function overriding
+- Deep Copy vs Shallow Copy
+- Mutable vs Immutable
+- Threading, Multithreading
+- Design patterns, Singleton
+- Three Tier Architecture
+- MVC Architecture
+
+
+
+- Exists statement 
+- IN Statement
+- Distinct Keyword
+- LIKE operator
+- Sub Query
+- Group Functions (Sum, Avg, Max, Min, Count)
+- Count(*) vs Count(column)
+- Having vs Where
+- INNER JOIN/Equi Join
+- SELF Join
+- LEFT OUTER JOIN/RIGHT OUTER JOIN
+- FULL JOIN
+- CROSS JOIN
+- IF Statement
+- Stored Procedure vs Function
+- Views
+- DDL (CREATE, ALTER, DROP, TRUNCATE)
+- DML (SELECT, Update, Delete, Insert Into)
+- Primary key vs Unique Key
+- Foreign Key
+- Nullable, IsNull() function
+- char vs varchar vs nvarchar
+- Identity Column
+- Clustered Index vs Non-Clustered Index
+- Anomolies (Insert, Delete, Update)
+- Normalization (1st normal, second normal, 3rd normal)
+- Predefined functions (e.g. Getdate())
+
+
+
+
+- Framework versions (1.0, 1.1,2.0,3.0,3.5,4.0,4.5)
+- Visual Studios (VS 2003,VS 2005,VS 2008,VS 2010, VS 2012, VS 2013)
+- CLR (Common Language Runtime) vs JVM (java virtual Machine)
+- JIT (Just Intime Compiler)
+- MSIL (Microsoft Intermediat Lanugage) vs Java Byte Code
+- Language Interoperability?
+- Is .Net plateform independent?
+- Source Code -> MSIL -> machine code
+- What is assembly in .net? Types of Assembly
+- DLL (Dynamic Link Library)
+- EXE (Executable)
+- Namespace vs dll
+- static class, static variable, static function
+- private, public, protected, internal, protected internal
+- int vs Int32?
+- String vs string?
+- const keyword, readonly keyword
+- ADO.Net?
+- SqlConnection, SqlCommand, SqlDataReader
+- partial class
+- What is Reflection in .net?
+- Garbage Collector
+- Collection vs Generic
+- what is interface?
+- abstract class vs interface
+- virtual keyword, override keyword
+- sealed keyword
+- What is ASP.Net?
+- Page Life Cycle?
+- Exception Handling
+
+
+
+
+
+- What is JavaScript?
+- What is jQuery? Other javascript libraries
+- What is CSS?
+- HTML vs HTML5
+- HTTP?
+- Request vs Response
+- GET vs POST
+- thin client vs thick client
+- Web Servers ( IIS (Internet Information Services), Apache, TomCat)
+- Server Side programming vs Client side programming
+- what are webservices?
+- what is web 2.0?
+- what is AJAX?
+- what is REST services?
+
+
+
+
+
+
+
