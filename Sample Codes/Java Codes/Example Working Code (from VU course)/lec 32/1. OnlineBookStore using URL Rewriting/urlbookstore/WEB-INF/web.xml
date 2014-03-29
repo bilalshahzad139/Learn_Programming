@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name> URLRewriteServlet </servlet-name>
+<servlet-class> URLRewriteServlet </servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name> URLRewriteServlet </servlet-name>
+<url-pattern> /urlrewriteservlet </url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,5 @@
+To see the the working of code. compile java file then run html file 
+using applet viewer. Output will be shown on console (command prompt).
+e.g
+javac AppletDemo.java
+appletviewer Test.html

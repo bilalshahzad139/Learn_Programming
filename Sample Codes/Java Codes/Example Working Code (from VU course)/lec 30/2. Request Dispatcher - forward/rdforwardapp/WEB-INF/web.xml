@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>FirstServlet</servlet-name>
+<servlet-class>FirstServlet</servlet-class>
+</servlet>
+<servlet>
+<servlet-name>SecondServlet</servlet-name>
+<servlet-class>SecondServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>FirstServlet</servlet-name>
+<url-pattern>/firstservlet</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+<servlet-name>SecondServlet</servlet-name>
+<url-pattern>/secondservlet</url-pattern>
+</servlet-mapping>
+</web-app>

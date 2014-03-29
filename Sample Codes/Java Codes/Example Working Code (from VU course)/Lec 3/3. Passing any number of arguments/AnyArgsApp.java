@@ -1,0 +1,1 @@
+/* This Java application illustrates the use of Java command-line arguments. */public class AnyArgsApp {    public static void main(String[] args) { //main method        for (int i = 0; i < args.length; i++) {            System.out.println("Argument:" + i + " value" + args[i]);        }    }//end main}//End class.

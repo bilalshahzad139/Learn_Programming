@@ -7,9 +7,10 @@ namespace LearnProgramming.StaticKeyword
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-
+            
             //static keyword use
             //Customer obj = new Customer(); ----ERROR: No default constructor is available
 
