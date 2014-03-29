@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name> RepeatVisitorServlet </servlet-name>
+<servlet-class> RepeatVisitorServlet </servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name> RepeatVisitorServlet </servlet-name>
+<url-pattern> /repeatexample </url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,14 @@
+first complile PersonInfo.java then compile and run ClientWriteNetEx.java file.
+
+
+then open another command prompt window, compile and run ServerReadNetEx.java 
+
+e.g
+
+javac PersonInfo.java
+javac ServerReadNetEx.java
+java ServerReadNetEx
+
+In another command prompt window use these commands
+javac ClientWriteNetEx.java
+java ClientWriteNetEx
