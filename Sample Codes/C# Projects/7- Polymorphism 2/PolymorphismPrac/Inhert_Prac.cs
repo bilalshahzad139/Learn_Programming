@@ -9,6 +9,7 @@ namespace BSLearning.Polymorphism
 {
     public abstract class Shape
     {
+        //properties are defined which every 'Shape' will have
         public Int16 BorderThickness
         {
             get;
@@ -41,6 +42,7 @@ namespace BSLearning.Polymorphism
             set;
         }
 
+        //Abstract methods, child of 'Shape' class must override 
         public abstract void Draw();
         public abstract Decimal CalculateArea();
     }
